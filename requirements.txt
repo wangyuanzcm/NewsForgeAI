@@ -1,0 +1,12 @@
+fastapi>=0.104.1
+uvicorn>=0.24.0
+python-multipart>=0.0.6
+pydantic>=2.5.2
+loguru>=0.7.2
+toml>=0.10.2
+redis>=5.0.1
+google-generativeai>=0.3.1
+moviepy>=1.0.3
+yt-dlp>=2023.11.16
+azure-cognitiveservices-speech>=1.33.0
+lark-oapi>=1.0.20
